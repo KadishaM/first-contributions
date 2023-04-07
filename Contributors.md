@@ -4035,4 +4035,4 @@ Ayan Das
 - [Shubham Dubey](https://github.com/RebellionR2)
 - [Christopher Sandiko](https://github.com/cmsandiko)
 - [Sergio Ríos](https://github.com/sriosdev)
-- [Kadisha Mitchell] (https://github.com/KadishaM)
+- [Kadisha Mitchell](https://github.com/KadishaM)
